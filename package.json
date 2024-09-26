@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@nextui-org/react": "^2.4.8",
+    "framer-motion": "^11.5.4",
+    "mongoose": "^8.6.3",
+    "react-email-editor": "^1.7.11",
+    "stargate-mongoose": "^0.6.4"
+  }
+}
